@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Falitomal
-- 👀 I’m interested in JavaScript, Java, .Net
-- 🌱 I’m currently learning kotlin
+- 👋 Hi, I’m @Falitomal student in 42
+- 👀 I’m interested in C, Security and IA
+- 🌱 I’m currently learning C, Cyber Security and piña modes ;D
 - 💞️ I’m looking to collaborate on all projects of coding
-- 📫 How to reach me with pm
+- 📫 How to reach me with pm or visit in campus 42 Málaga
 
 <!---
 Falitomal/Falitomal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
