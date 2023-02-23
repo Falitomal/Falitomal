@@ -1,13 +1,56 @@
-- 👋 Hi, I’m @Falitomal student in 42
-- 👀 I’m interested in C, Security and IA
-- 🌱 I’m currently learning C, Cyber Security and IA ;D
-- 💞️ I’m looking to collaborate on all projects of coding
-- 📫 How to reach me with pm or visit in campus 42 Málaga
+<p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Hello all" /></p>
 
+### I'm J.Rafel Ledesma 👋
+
+---
+
+#### Currently studying to become a CiberSecurity & Cloud Developer 💻
+
+---
+
+- 🔭 I’m currently studying at Course Cisco CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
+- 👀 I’m interested in Python, CiberSecurity and IA  
+- 🌱 Currently working in Python, Flutter, AWS and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
+- 🎓 Certified AWS Architect, Higher Training in Computer Systems Administration and Developer Freelancer
+
+<br>
+
+## 💻 Skills I'm Currently Acquiring
+
+[![My Skills](https://skillicons.dev/icons?i=python,flutter,express,aws)](https://skillicons.dev)
+
+
+> :desktop_computer:  Languages - Python | Flutter | Express | Lambda
+
+> :fire: Database - Firebase
+
+<br>
+
+## 🧑‍💻 My Current Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,net,md,bash,vim,vscode,stackoverflow,html,css,github,git,java,wordpress,visualstudio)](https://skillicons.dev)
+
+
+> :desktop_computer:  Languages - C | .NET | Java | Bash | HTML | CSS | MYSQL
+
+> :hammer_and_wrench:  Tools -  Git | GitHub | Stack Overflow
+
+> :framed_picture:  Frameworks -  WordPress
+
+> :atom:  IDEs -  Visual Studio | Vim | Visual Studio Code
+
+<br>
+
+## ✨ <a href="https://github.com/stars/Falitomal/lists/proyects-42"> :four::two: <code> Proyects 42 School</code></a>
+
+<br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4fqbzyy002109l1xnqbbq71/stats?cursusId=21&coalitionId=piscine" alt="jledesma's 42 stats" /></a>
 
+## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-ledesma-rubio/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/rafael-ledesma-rubio/)
 
-<!---
-Falitomal/Falitomal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falitomal&layout=compact&theme=dark&hide_border=true)
+
+<br>
+
+<!--
+**Falitomal/Falitomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
