@@ -12,7 +12,9 @@
 - 👀 I’m interested in Python, CiberSecurity and IA  
 - 🌱 Currently working in Python, Flutter, AWS and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
 - 🎓 Certified AWS Architect, Higher Training in Computer Systems Administration and Developer Freelancer
-
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jledesma?1337Badge=off&UM6P=off" alt="jledesma's 42 stats" /></a>
+</p>
 <br>
 
 ## 💻 Skills I'm Currently Acquiring
@@ -44,7 +46,7 @@
 ## ✨ <a href="https://github.com/stars/Falitomal/lists/proyects-42"> :four::two: <code> Proyects 42 School</code></a>
 
 <br>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4fqbzyy002109l1xnqbbq71/stats?cursusId=21&coalitionId=piscine" alt="jledesma's 42 stats" /></a>
+
 
 ## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-ledesma-rubio/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/rafael-ledesma-rubio/)
 
