@@ -1,6 +1,6 @@
 <p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Hello all" /></p>
 
-### I'm J.Rafel Ledesma 👋
+### I'm J.Rafel Ledesma 👋 !
 
 ---
 
@@ -53,6 +53,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falitomal&layout=compact&theme=dark&hide_border=true)
 
 <br>
-
+<a href="https://visitorbadge.io/status?path=Falitomal"><img src="https://api.visitorbadge.io/api/combined?path=Falitomal&countColor=%23d9e3f0&style=flat&labelStyle=upper" /></a>
 <!--
 **Falitomal/Falitomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
